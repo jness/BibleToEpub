@@ -1,0 +1,27 @@
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1"
+xml:lang="en">
+  <head>
+    <meta name="dtb:uid"
+    content="95e823ba-8f88-4c44-9f9d-b22ff04d5358" />
+    <meta name="dtb:depth" content="3" />
+    <meta name="dtb:generator" content="calibre" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+
+  <docTitle>
+    <text>Table of Contents</text>
+  </docTitle>
+ 
+<navMap>
+
+    <navPoint id="d362620c-c3f8-45e2-8e63-2a62a2757f81"
+    playOrder="1">
+      <navLabel>
+        <text>The Holy Bible</text>
+      </navLabel>
+      <content src="content/1.html" />
+    </navPoint>
+
+
+  
